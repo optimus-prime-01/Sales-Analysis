@@ -2,6 +2,24 @@
 
 A comprehensive sales analytics solution built using SQL Server and Power BI, designed to provide actionable insights into sales performance, customer behavior, and product trends.
 
+## 📖 About This Project
+
+This project is a complete end-to-end data analytics solution that demonstrates the full lifecycle of transforming raw business data into actionable insights. Built as a portfolio piece, it showcases expertise in:
+
+- **Data Engineering**: SQL-based ETL processes for data cleaning and transformation
+- **Data Modeling**: Star schema design with proper dimension and fact table relationships
+- **Business Intelligence**: Interactive Power BI dashboards with advanced visualizations
+- **Data Analysis**: Statistical analysis and trend identification in sales data
+
+The project uses the AdventureWorks sample database to simulate a real-world scenario where a company needs to analyze their sales performance, understand customer behavior, and make data-driven decisions. It includes everything from initial data exploration and cleaning to final dashboard deployment, making it an excellent example of modern data analytics workflows.
+
+**Key Learning Outcomes:**
+- Advanced SQL techniques for data transformation
+- Power BI dashboard design and best practices
+- Data modeling principles for analytics
+- Business requirements gathering and stakeholder communication
+- End-to-end analytics project management
+
 ## 🎯 Project Overview
 
 This project transforms raw sales data from AdventureWorks into a powerful, interactive dashboard that helps business stakeholders make data-driven decisions. The solution includes data cleaning, transformation, and visualization components.

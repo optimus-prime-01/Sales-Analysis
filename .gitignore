@@ -12,8 +12,8 @@
 # PDF files (generated reports)
 *.pdf
 
-# Word documents (temporary)
-*.docx
+# Word documents (except business requirements)
+# *.docx
 
 # OS generated files
 .DS_Store

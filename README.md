@@ -168,27 +168,5 @@ The solution follows a star schema design with:
 2. **For Developers**: Review SQL scripts for data transformation logic
 3. **For Analysts**: Use exported CSV files for additional analysis
 
-## 🎯 Resume Highlights
-
-**Perfect for Data Analytics Resume - Key Talking Points:**
-- End-to-end data analytics project demonstrating full technical stack proficiency
-- Quantifiable business impact with specific metrics and achievements
-- Advanced SQL and Power BI skills with real-world application
-- Data modeling expertise with star schema implementation
-- Business intelligence and visualization best practices
-- Project management and stakeholder communication experience
-
-## 🤝 Contributing
-
-This project demonstrates comprehensive data analytics capabilities and serves as a portfolio piece for data analyst positions. Feel free to explore the code and adapt methodologies for your own projects.
-
-## 📞 Contact
-
-**Available for Data Analytics Opportunities**
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
-
----
 
 *Professional Data Analytics Portfolio Project | SQL Server & Power BI*

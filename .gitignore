@@ -1,6 +1,6 @@
-# Power BI files
-*.pbix
-*.pbit
+# Power BI files (except main reports)
+# *.pbix
+# *.pbit
 
 # Excel temporary files
 ~$*.xlsx
@@ -9,8 +9,8 @@
 # CSV files (will be generated from SQL)
 *.csv
 
-# PDF files (generated reports)
-*.pdf
+# PDF files (except main reports)
+# *.pdf
 
 # Word documents (except business requirements)
 # *.docx

@@ -6,8 +6,8 @@
 ~$*.xlsx
 ~$*.xls
 
-# CSV files (will be generated from SQL)
-*.csv
+# CSV files (except export files)
+# *.csv
 
 # PDF files (except main reports)
 # *.pdf
